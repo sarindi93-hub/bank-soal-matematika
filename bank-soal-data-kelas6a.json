@@ -1,0 +1,46 @@
+{
+  "kelas": 6,
+  "mapel": "Matematika",
+  "materi": "Penyajian dan Penggunaan Data",
+  "kompetensi": [
+    "Memahami",
+    "Mengaplikasikan",
+    "Bernalar HOTS"
+  ],
+  "total_soal": 150,
+  "soal": [
+    {
+      "id": 1,
+      "tipe": "pilihan_ganda",
+      "pertanyaan": "Tabel menunjukkan jumlah siswa hadir selama 5 hari. Hari apakah jumlah hadir paling sedikit?",
+      "opsi": ["Senin", "Selasa", "Rabu", "Kamis"],
+      "jawaban": 0
+    },
+    {
+      "id": 2,
+      "tipe": "pilihan_ganda",
+      "pertanyaan": "Jika data hari Jumat bertambah 5 dari Kamis, maka hari dengan jumlah terbanyak adalah?",
+      "opsi": ["Kamis", "Jumat", "Rabu", "Selasa"],
+      "jawaban": 1
+    },
+
+    {
+      "id": 91,
+      "tipe": "diagram_batang",
+      "pertanyaan": "Diagram batang menunjukkan hasil panen jagung 4 desa. Desa dengan hasil tertinggi adalah?",
+      "label": ["Desa A", "Desa B", "Desa C", "Desa D"],
+      "data": [12, 18, 15, 20],
+      "opsi": ["Desa A", "Desa B", "Desa C", "Desa D"],
+      "jawaban": 3
+    },
+
+    {
+      "id": 121,
+      "tipe": "drag_drop",
+      "pertanyaan": "Susun data ke diagram batang sesuai urutan hari",
+      "label": ["Senin", "Selasa", "Rabu"],
+      "data": [20, 30, 25],
+      "jawaban": [20, 30, 25]
+    }
+  ]
+}
