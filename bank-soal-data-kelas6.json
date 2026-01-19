@@ -1,0 +1,131 @@
+[
+  {
+    "pertanyaan": "Perhatikan tabel jumlah siswa hadir selama 5 hari: Senin 30, Selasa 28, Rabu 30, Kamis 27, Jumat 30. Data yang paling sering muncul adalah...",
+    "opsi": ["27","28","30","5 hari"],
+    "jawaban": 2
+  },
+  {
+    "pertanyaan": "Jika data penjualan pensil disajikan dalam diagram batang, manfaat utama diagram tersebut adalah...",
+    "opsi": ["Menghitung jumlah","Membandingkan data","Menghias laporan","Menghafal data"],
+    "jawaban": 1
+  },
+  {
+    "pertanyaan": "Nilai ulangan matematika: 70, 80, 70, 90, 80, 70. Modus dari data tersebut adalah...",
+    "opsi": ["70","80","90","Tidak ada"],
+    "jawaban": 0
+  },
+  {
+    "pertanyaan": "Piktogram paling tepat digunakan untuk menyajikan data...",
+    "opsi": ["Dengan angka desimal","Kategori sederhana","Rumus","Operasi hitung"],
+    "jawaban": 1
+  },
+  {
+    "pertanyaan": "Jika diagram batang menunjukkan jumlah buku terbaca tiap kelas, maka informasi yang dapat diperoleh adalah...",
+    "opsi": ["Urutan abjad","Perbandingan jumlah","Rumus rata-rata","Cara membaca"],
+    "jawaban": 1
+  },
+
+  {
+    "pertanyaan": "Data tinggi badan siswa sebaiknya disajikan dalam bentuk...",
+    "opsi": ["Cerita","Diagram batang","Puisi","Gambar bebas"],
+    "jawaban": 1
+  },
+  {
+    "pertanyaan": "Jumlah pengunjung perpustakaan per hari adalah 12, 15, 15, 18, 15. Data terbanyak adalah...",
+    "opsi": ["12","15","18","5"],
+    "jawaban": 1
+  },
+  {
+    "pertanyaan": "Tujuan pengumpulan data adalah untuk...",
+    "opsi": ["Menghias","Menduga","Menarik kesimpulan","Menghafal"],
+    "jawaban": 2
+  },
+  {
+    "pertanyaan": "Diagram batang cocok digunakan untuk data...",
+    "opsi": ["Perasaan","Kategori","Cerita","Pendapat"],
+    "jawaban": 1
+  },
+  {
+    "pertanyaan": "Jika jumlah siswa kelas VI A lebih banyak dari VI B, maka batang VI A akan...",
+    "opsi": ["Lebih pendek","Sama","Lebih tinggi","Hilang"],
+    "jawaban": 2
+  },
+
+  {
+    "pertanyaan": "Data hasil panen padi tiap desa sebaiknya disajikan dengan...",
+    "opsi": ["Diagram batang","Puisi","Dongeng","Cerpen"],
+    "jawaban": 0
+  },
+  {
+    "pertanyaan": "Manakah yang termasuk data kuantitatif?",
+    "opsi": ["Warna","Jumlah siswa","Hobi","Nama"],
+    "jawaban": 1
+  },
+  {
+    "pertanyaan": "Jika satu gambar pada piktogram mewakili 5 siswa, maka 3 gambar berarti...",
+    "opsi": ["3 siswa","5 siswa","8 siswa","15 siswa"],
+    "jawaban": 3
+  },
+  {
+    "pertanyaan": "Informasi yang tidak bisa diperoleh dari diagram batang adalah...",
+    "opsi": ["Data terbanyak","Perbandingan","Jumlah total","Cerita asal data"],
+    "jawaban": 3
+  },
+  {
+    "pertanyaan": "Data nilai ulangan sebaiknya digunakan untuk...",
+    "opsi": ["Menghukum","Evaluasi belajar","Hiasan","Permainan"],
+    "jawaban": 1
+  },
+
+  {
+    "pertanyaan": "Jika dua batang pada diagram sama tinggi, artinya...",
+    "opsi": ["Data sama","Data nol","Data hilang","Data salah"],
+    "jawaban": 0
+  },
+  {
+    "pertanyaan": "Tabel frekuensi digunakan untuk...",
+    "opsi": ["Menyusun cerita","Mengelompokkan data","Menggambar","Menghias"],
+    "jawaban": 1
+  },
+  {
+    "pertanyaan": "Diagram batang horizontal digunakan jika...",
+    "opsi": ["Data panjang","Data pendek","Waktu singkat","Tidak ada pilihan"],
+    "jawaban": 0
+  },
+  {
+    "pertanyaan": "Data yang dikumpulkan dari hasil pengamatan disebut...",
+    "opsi": ["Data fiksi","Data nyata","Data palsu","Data cerita"],
+    "jawaban": 1
+  },
+  {
+    "pertanyaan": "Manakah contoh penggunaan data dalam kehidupan sehari-hari?",
+    "opsi": ["Menentukan juara kelas","Menggambar","Menyanyi","Bermain"],
+    "jawaban": 0
+  },
+
+  {
+    "pertanyaan": "Jika jumlah siswa putra 18 dan putri 22, maka kesimpulannya adalah...",
+    "opsi": ["Putra lebih banyak","Putri lebih banyak","Sama","Tidak diketahui"],
+    "jawaban": 1
+  },
+  {
+    "pertanyaan": "Diagram batang lebih mudah dipahami karena...",
+    "opsi": ["Berwarna","Visual","Panjang","Lebar"],
+    "jawaban": 1
+  },
+  {
+    "pertanyaan": "Sumber data jumlah siswa adalah...",
+    "opsi": ["Perasaan","Catatan sekolah","Cerita","Iklan"],
+    "jawaban": 1
+  },
+  {
+    "pertanyaan": "Jika data disajikan tidak lengkap, maka kesimpulan menjadi...",
+    "opsi": ["Akurat","Salah","Menarik","Lucu"],
+    "jawaban": 1
+  },
+  {
+    "pertanyaan": "Data yang baik harus...",
+    "opsi": ["Rekayasa","Akurat","Berlebihan","Lucu"],
+    "jawaban": 1
+  }
+]
