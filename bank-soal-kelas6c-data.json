@@ -1,0 +1,53 @@
+{
+  "kelas": 6,
+  "mapel": "Matematika",
+  "materi": "Penyajian dan Penggunaan Data",
+  "total": 150,
+  "soal": [
+
+    {
+      "id": 1,
+      "tipe": "pilihan_ganda",
+      "indikator": "Membaca tabel frekuensi",
+      "pertanyaan": "Jumlah siswa kelas VI A adalah 18 dan VI B 22. Jumlah seluruh siswa adalah …",
+      "opsi": ["30", "35", "40", "45"],
+      "jawaban": 2
+    }
+
+    /* ……………………………………… */
+    /* SOAL 2 s.d. 100 (pilihan ganda HOTS) */
+    /* ……………………………………… */
+
+    ,
+    {
+      "id": 101,
+      "tipe": "diagram_batang",
+      "indikator": "Menafsirkan diagram",
+      "pertanyaan": "Hari dengan pengunjung terbanyak adalah …",
+      "label": ["Senin", "Selasa", "Rabu", "Kamis"],
+      "data": [25, 30, 45, 35],
+      "opsi": ["Senin", "Selasa", "Rabu", "Kamis"],
+      "jawaban": "Rabu"
+    }
+
+    /* ……………………………………… */
+    /* SOAL 102 s.d. 120 (diagram canvas) */
+    /* ……………………………………… */
+
+    ,
+    {
+      "id": 121,
+      "tipe": "drag_drop",
+      "indikator": "Menyusun data ke diagram",
+      "pertanyaan": "Pasangkan data ke hari yang tepat",
+      "label": ["Senin", "Selasa", "Rabu"],
+      "data": [28, 32, 30],
+      "jawaban": [28, 32, 30]
+    }
+
+    /* ……………………………………… */
+    /* SOAL 122 s.d. 150 (drag & drop) */
+    /* ……………………………………… */
+
+  ]
+}
